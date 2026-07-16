@@ -25,7 +25,7 @@ A responsive image gallery built with HTML, CSS, and JavaScript, featuring categ
 2. Open \`index.html\` in your browser, or use a local server (e.g. VS Code Live Server)
 
 ## Live Demo
-[View live site](https://YOUR_USERNAME.github.io/image-gallery/)
+[View live site](https://Codecloud0.github.io/image-gallery/)
 
 ## Screenshots
 ![alt text](<Screenshot 2026-07-16 001335.png>)
