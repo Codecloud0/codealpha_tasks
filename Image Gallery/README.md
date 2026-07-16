@@ -20,7 +20,7 @@ A responsive image gallery built with HTML, CSS, and JavaScript, featuring categ
 ## How to Run
 1. Clone this repository
    \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/image-gallery.git
+   git clone https://github.com/Codecloud0/image-gallery.git
    \`\`\`
 2. Open \`index.html\` in your browser, or use a local server (e.g. VS Code Live Server)
 
