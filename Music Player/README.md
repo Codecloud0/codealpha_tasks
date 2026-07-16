@@ -25,7 +25,7 @@ A modern glassmorphism-style music player built with HTML, CSS, and JavaScript.
 2. Open \`index.html\` in your browser, or use a local server
 
 ## Live Demo
-[View live site](https://Codecloud0.github.io/music-player/)
+[View live site](https://codecloud0.github.io/codealpha_tasks/Music%20Player/)
 
 ## Note
 Audio files used are royalty-free NCS (NoCopyrightSounds) tracks for demo purposes.
