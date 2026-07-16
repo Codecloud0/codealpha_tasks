@@ -4,7 +4,7 @@ This repository contains front-end web development projects completed as part of
 
 ## 📁 Projects
 
-### 1. [Image Gallery](./image-gallery)
+### 1. [Image Gallery](./Image Gallery)
 A responsive image gallery with category filters, live search, and a full-featured lightbox viewer.
 
 **Key Features:**
@@ -18,7 +18,7 @@ A responsive image gallery with category filters, live search, and a full-featur
 
 ---
 
-### 2. [Music Player](./music-player)
+### 2. [Music Player](./Music Player)
 A modern glassmorphism-style music player with full playback controls and a playlist.
 
 **Key Features:**
