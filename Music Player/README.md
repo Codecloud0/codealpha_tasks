@@ -20,12 +20,12 @@ A modern glassmorphism-style music player built with HTML, CSS, and JavaScript.
 ## How to Run
 1. Clone this repository
    \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/music-player.git
+   git clone https://github.com/Codecloud0/music-player.git
    \`\`\`
 2. Open \`index.html\` in your browser, or use a local server
 
 ## Live Demo
-[View live site](https://YOUR_USERNAME.github.io/music-player/)
+[View live site](https://Codecloud0.github.io/music-player/)
 
 ## Note
 Audio files used are royalty-free NCS (NoCopyrightSounds) tracks for demo purposes.
