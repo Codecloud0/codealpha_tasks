@@ -8,6 +8,7 @@
   --card: #22222e;
   --text: #e8e8f0;
   --muted: #8888a8;
+  --heading-start: #ffffff; 
   --radius: 14px;
   --transition: 0.3s cubic-bezier(.4,0,.2,1);
 }
@@ -19,6 +20,7 @@ body.light-mode {
   --text: #1a1a1a;
   --muted: #5a6472;
   --accent: #4fb87d;
+  --heading-start: #1a1a1a;
 }
 
 body {
@@ -39,7 +41,7 @@ body {
   font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 700;
   letter-spacing: -1px;
-  background: linear-gradient(135deg, #fff 40%, var(--accent));
+  background: linear-gradient(135deg, var(--heading-start) 40%, var(--accent));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
