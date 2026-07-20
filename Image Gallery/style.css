@@ -17,7 +17,7 @@ body.light-mode {
   --surface: #ffffff;
   --card: #f0f2f5;
   --text: #1a1a1a;
-  --muted: #d5dbe5;
+  --muted: #5a6472;
   --accent: #4fb87d;
 }
 
@@ -32,8 +32,9 @@ body {
 .site-header {
   text-align: center;
   padding: 3rem 1rem 1.5rem;
-  background: linear-gradient(180deg, #13131d 0%, var(--bg) 100%);
+  background: linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%);
 }
+
 .site-header h1 {
   font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 700;
